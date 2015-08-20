@@ -1,0 +1,24 @@
+{
+  "name": "nodebb-plugin-skeleton",
+  "version": "0.1.0",
+  "description": "A very simple, but runnable, NodeBB plugin project skeleton",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jongarrison/nodebb-plugin-skeleton.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "skeleton"
+  ],
+  "author": "Jon Garrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jongarrison/nodebb-plugin-skeleton/issues"
+  },
+  "homepage": "https://github.com/jongarrison/nodebb-plugin-skeleton#readme"
+}

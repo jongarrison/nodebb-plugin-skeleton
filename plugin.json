@@ -1,0 +1,19 @@
+{
+	"id": "nodebb-plugin-plinker",
+	"name": "NodeBB Plinker Plugin",
+	"description": "",
+	"url": "https://github.com/jongarrison/nodebb-plugin-skeleton",
+	"library": "./library.js",
+	"hooks": [
+        { "hook": "static:app.load", "method": "init" }
+    ],
+	"staticDirs": {
+        "static": "./static"
+    },
+    "less": [
+        "static/style.less"
+    ],
+    "scripts": [
+        "static/js/plugin.js"
+	  ]
+}
